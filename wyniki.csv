@@ -1,0 +1,7 @@
+metryka,segment,liczba_par,stala,dynamiczna,roznica,ci_95_dol,ci_95_gora
+przychod_pln,Wszystkie dni,112,10095.7768,10293.1607,197.3839,-92.4781,459.9842
+przychod_pln,Dni robocze,80,7650.1625,7725.4125,75.2500,-154.5003,290.7756
+przychod_pln,Weekend,32,16209.8125,16712.5312,502.7188,-83.8109,1066.7883
+bilety,Wszystkie dni,112,127.7946,133.6250,5.8304,2.2232,9.1877
+bilety,Dni robocze,80,96.8375,111.9625,15.1250,12.0497,18.1500
+bilety,Weekend,32,205.1875,187.7812,-17.4062,-24.2188,-10.7180
